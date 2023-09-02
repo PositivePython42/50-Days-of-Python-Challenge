@@ -20,6 +20,6 @@ In this book you will find over 50 challenges that cover all the areas below and
 - Building websites
 - SQL
 
-Why Solve challenges?
+## Why Solve challenges?
 
 A programmer’s job is to write code to solve problems. When you solve a challenge, not only do you get to cement your knowledge, but you master the invaluable skill of finding solutions to problems. Solving challenges helps you think; it helps you learn and grow. Solving challenges will expose your knowledge gaps. By solving challenges, you get to see how your code can solve real-life situations that programmers face. By the time you make it to the end of this book, you're gonna feel confident about your Python skills. Get this book and be on your way to greatness!!
