@@ -9,16 +9,16 @@ What you will find in the book
 
 In this book you will find over 50 challenges that cover all the areas below and more:
 
-Functions
-Data types
-Classes
-Modules
-Conditional statements
-While and for loops
-File handling (text, CSV, JSON)
-Error handling
-Building websites
-SQL
+- Functions
+- Data types
+- Classes
+- Modules
+- Conditional statements
+- While and for loops
+- File handling (text, CSV, JSON)
+- Error handling
+- Building websites
+- SQL
 
 Why Solve challenges?
 
