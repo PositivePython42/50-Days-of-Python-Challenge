@@ -1,5 +1,5 @@
 # 50-Days-of-Python-Challenge
-Ben Alexanders 5 Challenges : https://benjaminb.gumroad.com/l/zybjn
+Ben Alexanders 50 Challenges : https://benjaminb.gumroad.com/l/zybjn
 
 Ben kindly gave me a free copy of his book and I am working through the challenges.
 
