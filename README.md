@@ -1,7 +1,7 @@
 # 50-Days-of-Python-Challenge
 Ben Alexanders 50 Challenges : https://benjaminb.gumroad.com/l/zybjn
 
-Ben kindly gave me a free copy of his book and I am working through the challenges.
+Ben kindly gave me a free copy of his book and I am working through the challenges.  I have not copied the book to the repo to protect Ben's IP.  I have also chosen to set out the challenge text in each of my files.  Buy the book and support creators!
 
 Imagine mastering Python fundamentals by completing a challenge a day. Well, you don't have to imagine that, challenges that will help you master the fundamentals of the Python language as you begin your journey to build and create great things with Python. Even if you are very busy, you can put aside some time every day to complete one challenge and you will be on your way to mastering the Python fundamentals by the end of 50 days. This book contains challenges that mirror real-life situations that programmers encounter every day. The challenges are good enough for someone who has been learning Python for a while and they are looking for challenges that will help them test and grow their knowledge; or someone who has not worked with Python in a while and they are trying to get back in the game. If you are just beginning your Python journey and you love learning by solving problems, this book is for you.
 
